@@ -1,4 +1,4 @@
-# КАЛЬКУЛЯТОР (сохрани как calculator.py)
+
 def add(a, b):
     return a + b
 
@@ -13,7 +13,6 @@ def divide(a, b):
         return "Ошибка: деление на 0!"
     return a / b
 
-# Основная программа
 print("Простой калькулятор")
 print("1. Сложить")
 print("2. Вычесть")
@@ -33,4 +32,8 @@ elif choice == '3':
 elif choice == '4':
     print("Результат:", divide(num1, num2))
 else:
+<<<<<<< HEAD
     print("Неверный выбор")
+=======
+    print("Неверный выбор")
+>>>>>>> 6179e03af3019d615f42ca6e36b8c263d5abaf14
