@@ -9,8 +9,8 @@
 ## День 1: Калькулятор
 - [x] Написал калькулятор с функциями  
 - [x] Запуск в терминале  
-- [x] Код чистый, с комментариями  
-
+- [x] Код чистый, с комментариями
+- [ ] 
 [calculator.py](calculator.py)
 
 ---
@@ -18,5 +18,11 @@
 ## День 2: Угадай число  
 - [x] Игра с if/else и while циклом  
 - [x] Загадывает random число, подсказки  
-[guess_number.py](guess_number.py)  
+[guess_number.py](guess_number.py)
+
 ---
+
+## День 3: Калькулятор v2
+- [x] Код через функции (show_menu, get_numbers)
+- [x] Цикл while + выход
+[calculator_v2.py](calculator_v2.py)
