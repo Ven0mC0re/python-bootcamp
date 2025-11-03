@@ -27,6 +27,8 @@
 - [x] Цикл while + выход
 <<<<<<< HEAD
 [calculator_v2.py](calculator_v2.py)
-=======
-[calculator_v2.py](calculator_v2.py)
->>>>>>> a46933d1421a8c900ae74bc1e634babbbe8f527a
+---
+## День 4: To-Do List
+- [x] Списки (list), enumerate
+- [x] Добавление, удаление, вывод
+[todo_list.py](todo_list.py)
