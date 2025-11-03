@@ -25,4 +25,8 @@
 ## День 3: Калькулятор v2
 - [x] Код через функции (show_menu, get_numbers)
 - [x] Цикл while + выход
+<<<<<<< HEAD
 [calculator_v2.py](calculator_v2.py)
+=======
+[calculator_v2.py](calculator_v2.py)
+>>>>>>> a46933d1421a8c900ae74bc1e634babbbe8f527a
